@@ -2,7 +2,8 @@
 ### Меня зовут Гульжана Менажиева, я - Тимлидер рекрутинга в Tech&Executive search агентстве.
 
 Специализируюсь на подборе ИТ специалистов и руководителей:
-- Data: Data инженеры, аналитики (продуктовые, BI, data, web, системные, бизнес), Data Science, системные аналитики, бизнес аналитики, 
+
+- Data: Data инженеры, аналитики (продуктовые, BI, data, web, системные, бизнес), специалистов по Data Science; 
 - Development: RoR разработчики, Python разработчики (Aiohttp, FastApi, Flask, Django), Golang разработчики, Perl разработчики (Catalyst, Mojolicious), Java (Spring) разработчики, Mobile разработчики (Kotlin, Swift, Flutter, React Native), JS разработчики (React, Vue.js, Node.js);
 - QA: ручные и автоматизаторы Selenium/Appium/Python/JS/Java
 - DevOps и SRE;
