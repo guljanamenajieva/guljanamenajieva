@@ -1,7 +1,5 @@
-## Привет! Меня зовут Гульжана Менажиева, я - Тимлидер рекрутинга в Tech&Executive search агентстве.
-
-<!--
-**guljanamenajieva/guljanamenajieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привет! 
+Меня зовут Гульжана Менажиева, я - Тимлидер рекрутинга в Tech&Executive search агентстве.
 
 Специализируюсь на подборе ИТ специалистов и руководителей:
 - Data: Data инженеры, аналитики (продуктовые, BI, data, web, системные, бизнес), Data Science, системные аналитики, бизнес аналитики, 
