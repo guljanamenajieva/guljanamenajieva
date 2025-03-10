@@ -12,4 +12,4 @@
 
 Заказчики: cian.ru, segmentstream.com, mokka.ru, fonmix.ru, ipchain.ru, potok.digital, trinitymonsters.com, payapp.com и другие компании.
 
-Наставник факультета Data Яндекс.Практикум.
+**Наставник факультета Data Яндекс.Практикум.**
