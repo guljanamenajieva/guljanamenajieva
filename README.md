@@ -1,5 +1,5 @@
 ## Привет! 
-### Я - тимлидер команды рекрутинга в Tech&Executive search агентстве Akseyit.
+### Я - хэд команды рекрутинга в Tech&Executive search агентстве Akseyit.
 
 Специализируюсь на e2e подборе ИТ специалистов и руководителей:
 
@@ -11,3 +11,5 @@
 - Руководителей: тимлидов, хэдов и С-level (CISO, CTO, CIO, CDO, СРО, CFO, СМО и др.).
 
 Заказчики: cian.ru, segmentstream.com, mokka.ru, fonmix.ru, ipchain.ru, potok.digital, trinitymonsters.com, payapp.com и другие компании.
+
+Наставник факультета Data Яндекс.Практикум.
