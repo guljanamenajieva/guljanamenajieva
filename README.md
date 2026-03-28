@@ -1,2 +1,2 @@
 ## Привет! 
-### Я - Project Manager & Lead Analyst в Ronnabyte.tech, хэд команды рекрутинга в Tech&Executive search агентстве Akseyit, наставник на факультетах Data&Dev в Яндекс.Практикум.
+### Руководитель проектного офиса и рекрутинговой практики в Ronnabyte.tech, наставник на факультетах Data&Dev в Яндекс.Практикум.
